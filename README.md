@@ -1,1 +1,2 @@
-# Visi-n-por-Computador
+# Visión por Computador
+Prácticas y trabajos realizado en la asignatura Visión por Computador.
